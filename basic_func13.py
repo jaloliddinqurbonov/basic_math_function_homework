@@ -7,4 +7,4 @@ def main(a):
     Returns:
         float: the absolute value.
     '''
-    return
+    return a**0.5
